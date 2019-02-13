@@ -14,7 +14,7 @@ class SUT {
     println("here h")
   }
 
-  private def k(): Unit = {
+  protected def k(): Unit = {
     println("here k")
   }
 }

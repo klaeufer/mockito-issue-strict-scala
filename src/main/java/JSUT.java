@@ -14,7 +14,7 @@ public class JSUT {
         System.out.println("here h");
     }
 
-    private void k() {
+    protected void k() {
         System.out.println("here k");
     }
 }
