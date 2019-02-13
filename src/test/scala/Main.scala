@@ -1,3 +1,3 @@
 object Main extends App {
-  (new SUT).g()
+  (new SUT).f()
 }
